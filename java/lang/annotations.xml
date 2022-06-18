@@ -1,0 +1,5 @@
+<root>
+    <item name='java.lang.Deprecated boolean forRemoval()'>
+        <annotation name='org.jetbrains.annotations.Blocking'/>
+    </item>
+</root>
